@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\laba10.2\laba10.2\bin\Debug\laba10.2.exe.config
+C:\Users\User\Desktop\laba10.2\laba10.2\bin\Debug\laba10.2.exe
+C:\Users\User\Desktop\laba10.2\laba10.2\bin\Debug\laba10.2.pdb
+C:\Users\User\Desktop\laba10.2\laba10.2\obj\Debug\laba10.2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\laba10.2\laba10.2\obj\Debug\laba10.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\laba10.2\laba10.2\obj\Debug\laba10.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\laba10.2\laba10.2\obj\Debug\laba10.2.exe
+C:\Users\User\Desktop\laba10.2\laba10.2\obj\Debug\laba10.2.pdb

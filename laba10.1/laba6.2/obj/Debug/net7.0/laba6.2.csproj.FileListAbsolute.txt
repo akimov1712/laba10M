@@ -1,0 +1,45 @@
+H:\Rider projects\laba6.2\laba6.2\bin\Debug\net7.0\laba6.2.exe
+H:\Rider projects\laba6.2\laba6.2\bin\Debug\net7.0\laba6.2.deps.json
+H:\Rider projects\laba6.2\laba6.2\bin\Debug\net7.0\laba6.2.runtimeconfig.json
+H:\Rider projects\laba6.2\laba6.2\bin\Debug\net7.0\laba6.2.dll
+H:\Rider projects\laba6.2\laba6.2\bin\Debug\net7.0\laba6.2.pdb
+H:\Rider projects\laba6.2\laba6.2\obj\Debug\net7.0\laba6.2.csproj.AssemblyReference.cache
+H:\Rider projects\laba6.2\laba6.2\obj\Debug\net7.0\laba6.2.GeneratedMSBuildEditorConfig.editorconfig
+H:\Rider projects\laba6.2\laba6.2\obj\Debug\net7.0\laba6.2.AssemblyInfoInputs.cache
+H:\Rider projects\laba6.2\laba6.2\obj\Debug\net7.0\laba6.2.AssemblyInfo.cs
+H:\Rider projects\laba6.2\laba6.2\obj\Debug\net7.0\laba6.2.csproj.CoreCompileInputs.cache
+H:\Rider projects\laba6.2\laba6.2\obj\Debug\net7.0\laba6.2.dll
+H:\Rider projects\laba6.2\laba6.2\obj\Debug\net7.0\refint\laba6.2.dll
+H:\Rider projects\laba6.2\laba6.2\obj\Debug\net7.0\laba6.2.pdb
+H:\Rider projects\laba6.2\laba6.2\obj\Debug\net7.0\laba6.2.genruntimeconfig.cache
+H:\Rider projects\laba6.2\laba6.2\obj\Debug\net7.0\ref\laba6.2.dll
+C:\Users\User\Desktop\laba10.1\laba6.2\bin\Debug\net7.0\laba6.2.exe
+C:\Users\User\Desktop\laba10.1\laba6.2\bin\Debug\net7.0\laba6.2.deps.json
+C:\Users\User\Desktop\laba10.1\laba6.2\bin\Debug\net7.0\laba6.2.runtimeconfig.json
+C:\Users\User\Desktop\laba10.1\laba6.2\bin\Debug\net7.0\laba6.2.dll
+C:\Users\User\Desktop\laba10.1\laba6.2\bin\Debug\net7.0\laba6.2.pdb
+C:\Users\User\Desktop\laba10.1\laba6.2\obj\Debug\net7.0\laba6.2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\laba10.1\laba6.2\obj\Debug\net7.0\laba6.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\laba10.1\laba6.2\obj\Debug\net7.0\laba6.2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\laba10.1\laba6.2\obj\Debug\net7.0\laba6.2.AssemblyInfo.cs
+C:\Users\User\Desktop\laba10.1\laba6.2\obj\Debug\net7.0\laba6.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\laba10.1\laba6.2\obj\Debug\net7.0\laba6.2.dll
+C:\Users\User\Desktop\laba10.1\laba6.2\obj\Debug\net7.0\refint\laba6.2.dll
+C:\Users\User\Desktop\laba10.1\laba6.2\obj\Debug\net7.0\laba6.2.pdb
+C:\Users\User\Desktop\laba10.1\laba6.2\obj\Debug\net7.0\laba6.2.genruntimeconfig.cache
+C:\Users\User\Desktop\laba10.1\laba6.2\obj\Debug\net7.0\ref\laba6.2.dll
+C:\Users\User\Desktop\laba10\laba10.1\laba6.2\bin\Debug\net7.0\laba6.2.exe
+C:\Users\User\Desktop\laba10\laba10.1\laba6.2\bin\Debug\net7.0\laba6.2.deps.json
+C:\Users\User\Desktop\laba10\laba10.1\laba6.2\bin\Debug\net7.0\laba6.2.runtimeconfig.json
+C:\Users\User\Desktop\laba10\laba10.1\laba6.2\bin\Debug\net7.0\laba6.2.dll
+C:\Users\User\Desktop\laba10\laba10.1\laba6.2\bin\Debug\net7.0\laba6.2.pdb
+C:\Users\User\Desktop\laba10\laba10.1\laba6.2\obj\Debug\net7.0\laba6.2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\laba10\laba10.1\laba6.2\obj\Debug\net7.0\laba6.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\laba10\laba10.1\laba6.2\obj\Debug\net7.0\laba6.2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\laba10\laba10.1\laba6.2\obj\Debug\net7.0\laba6.2.AssemblyInfo.cs
+C:\Users\User\Desktop\laba10\laba10.1\laba6.2\obj\Debug\net7.0\laba6.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\laba10\laba10.1\laba6.2\obj\Debug\net7.0\laba6.2.dll
+C:\Users\User\Desktop\laba10\laba10.1\laba6.2\obj\Debug\net7.0\refint\laba6.2.dll
+C:\Users\User\Desktop\laba10\laba10.1\laba6.2\obj\Debug\net7.0\laba6.2.pdb
+C:\Users\User\Desktop\laba10\laba10.1\laba6.2\obj\Debug\net7.0\laba6.2.genruntimeconfig.cache
+C:\Users\User\Desktop\laba10\laba10.1\laba6.2\obj\Debug\net7.0\ref\laba6.2.dll
